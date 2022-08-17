@@ -1,7 +1,7 @@
 import smtplib
 
-my_email = "kdstar008@gmail.com"
-password = "JsonClass12#"
+my_email = "type email"
+password = "Type password"
 connection = smtplib.SMTP("smtp.gmail.com")
 
 connection.starttls()
